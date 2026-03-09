@@ -6,6 +6,8 @@ Free to use. Community maintained. No gatekeeping.
 
 Created by [Just In Time AI](https://jitai.co) because we believe the people building AI solutions for real-world gaps deserve recognition -- and the world needs a simple way to spot them.
 
+**Read the full story:** [Introducing #FirstMover: The Open Badge for #AIPioneers](https://jitai.co/blog/ai-leadership/firstmover-badge)
+
 ---
 
 ## What Is #FirstMover?
@@ -39,7 +41,7 @@ The #FirstMover Certified badge is a validated credential reviewed by Just In Ti
 **License:** [All Rights Reserved](CERTIFIED-LICENSE.md) -- licensed to approved certifiees only.
 
 **How to earn it:**
-1. Complete the application at [jitai.co](https://jitai.co)
+1. Complete the application at [jitai.co/firstmover](https://jitai.co/firstmover)
 2. Pay the one-time $1,000 certification fee
 3. 20-minute review call with Just In Time AI
 4. Upon approval: listed in the Certified directory, certified badge assets delivered, license agreement signed
@@ -80,6 +82,8 @@ Certified badge preview images are available in `assets/certified/` for referenc
 See [DIRECTORY.md](DIRECTORY.md) for the full list of #FirstMover entries.
 
 See [CERTIFIED.md](CERTIFIED.md) for certified entries and the certification process.
+
+Browse the live directory: [jitai.co/firstmover](https://jitai.co/firstmover)
 
 ---
 
