@@ -15,6 +15,7 @@ Want to get certified? See [CERTIFIED.md](CERTIFIED.md) for details.
 | 1 | #FirstMover Badge | [github.com/dstolts/FirstMover](https://github.com/dstolts/FirstMover) | Global | Open Standard | First universal badge recognizing AI pioneers in any industry | Certified |
 | 2 | AI Boat Mechanic | [www.AiBoatMechanic.com](https://www.AiBoatMechanic.com) | Industry | Marine Service | First AI diagnostic tool for marine technicians -- filling the massive talent shortage of experienced marine techs aging out with no trained replacements. AI gives any technician instant access to diagnostic knowledge that used to require 20 years of experience. No direct competitors in AI-powered marine diagnostics at time of launch. | Certified |
 | 3 | AI Field Support | [www.AIFieldSupport.com](https://www.AIFieldSupport.com) | Industry | Field Service | First AI-powered field support platform for service technicians across industries -- providing real-time AI diagnostic assistance, knowledge base, and workflow automation for field service teams. | Certified |
+| 4 | JitNeuro | [jitneuro.ai](https://jitneuro.ai) | Global | Developer Tools | First framework for just-in-time memory management in AI coding assistants -- solving the universal problem of context limits, memory loss, and session degradation. Neural network-inspired architecture (bundles, engrams, routing weights) that gives Claude Code endless memory through on-demand context loading and automated learning. | Certified |
 
 ---
 
